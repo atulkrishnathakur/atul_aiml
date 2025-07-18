@@ -21,3 +21,6 @@
 http://localhost:8888/tree
 ```
 4. click on `file` then clik on `New` then click on `Notebook` then click on `Select` button to choose python kernel
+
+### close(shut down) jupyter notebook
+1. press `ctrl+c` to close(shut down) jupyter notebook
