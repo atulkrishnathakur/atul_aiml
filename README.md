@@ -24,3 +24,19 @@ http://localhost:8888/tree
 
 ### close(shut down) jupyter notebook
 1. press `ctrl+c` to close(shut down) jupyter notebook
+
+### How to rename file
+1. click on jupyter logo then you will see all directory and file. Here select the file and click on rename button
+
+## Pandas
+### pandas url
+1. https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html
+2. https://pypi.org/project/pandas/
+3. https://pandas.pydata.org/docs/getting_started/index.html
+4. https://www.w3schools.com/python/pandas/default.asp 
+
+### install the pandas
+1. install the pandas. 
+```
+(venv) atul@atul-Lenovo-G570:~/atul_aiml$ pip install pandas
+```
